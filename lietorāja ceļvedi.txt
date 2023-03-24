@@ -1,0 +1,23 @@
+lietorāja ceļvedi.
+Kvadrātvienādojuma kalkulatora lietotāja rokasgrāmata.
+
+Kvadrātvienādojumu kalkulators ir vienkāršs rīks, kas paredzēts, lai palīdzētu ātri un viegli atrisināt kvadrātvienādojumus. 
+Kalkulators ņem kvadrātvienādojuma koeficientus kā ievadi un atgriež vienādojuma saknes kā izvadi. Šeit ir soli pa solim ceļvedis, kā lietot kalkulatoru:
+
+1. darbība: atveriet kalkulatoru
+Lai atvērtu kalkulatoru, vienkārši pielādējiet Java Script, Css un Html failu no github vienā mapē. 
+Pēc tam divreiz klikšķi uz html failu, lai atvērtu html failu, un jūs tiksit pārsūtīts uz kalkulatora brauzera versiju.
+
+2. darbība: ievadiet izredzes
+Kad kalkulators ir atvērts, jūs redzēsit trīs ievades laukus ar apzīmējumiem "a", "b" un "c". Šajos laukos ievadiet sava kvadrātvienādojuma koeficientus. 
+Pirmajā ievades laukā ieraksta koeficientu "a", otrajā ievades laukā - koeficientu "b", trešajā ievades laukā - koeficientu "c".
+
+3. darbība: atrisiniet vienādojumu
+Kad esat ievadījis kvadrātvienādojuma koeficientus, nospiediet pogu "=", lai atrisinātu vienādojumu. Pēc tam kalkulators parādīs vienādojuma saknes.
+
+4. darbība. Interpretējiet rezultātus
+Kalkulators parādīs vienādojuma saknes. Ja vienādojumam ir reāla sakne, kalkulators parādīs šo sakni. 
+Ja vienādojumam nav reālu sakņu, kalkulators parādīs "Reālu risinājumu nav".
+
+5. darbība. Iztīriet kalkulatoru
+Lai notīrītu kalkulatoru un sāktu jaunu aprēķinu, ievades laukos ievadiet jaunus datus.
